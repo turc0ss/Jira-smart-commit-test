@@ -1,1 +1,1 @@
-This is initial test for smart commit
+This is a second test for smart commit in JIR-1
